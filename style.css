@@ -1,0 +1,104 @@
+ul {
+	list-style-type: none;
+	margin: 10px;
+	padding: 30px;
+	font-size: 25px;
+}
+
+li {
+	display: inline-block;
+	font-family: arial;
+	float: right;
+	margin-bottom: 15px;
+}
+
+li a{
+	display: block;
+	color: black;
+	text-align: center;
+	padding-left: 60px;
+	text-decoration: none;
+}
+
+.myPic {
+	width: 1500px;
+	height: 400px;
+	margin: 10px;
+	padding-top: 50px;
+}
+
+.fb {
+	width: 50px;
+	height: 50px;
+	margin: 20px;
+	padding: 10px;
+	background-color: #d8e7d4;
+}
+
+.instagram {
+	width: 50px;
+	height: 50px;
+	margin: 20px;
+	padding: 10px;
+	background-color: #d8e7d4;
+}
+
+.twitter {
+	width: 50px;
+	height: 50px;
+	margin: 20px;
+	padding: 10px;
+	background-color: #d8e7d4;
+}
+
+.sunset1 {
+	width: 500px;
+	height: 500px;
+	margin-left: 250px;
+	padding-top: 20px;
+}
+
+.sunset2 {
+	width: 500px;
+	height: 500px;
+	padding-top: 20px;
+}
+
+.sunset3 {
+	width: 500px;
+	height: 500px;
+	margin-left: 250px;
+}
+
+.sunset4 {
+	width: 500px;
+	height: 500px;
+}
+
+.fam {
+	width: 1000px;
+	height: 500px;
+	margin-left: 250px;
+	padding-top: 50px;
+}
+
+.pic1 {
+	width: 1480px;
+	height: 300px;
+	padding-left: 10px;
+	padding-top: 20px;
+}
+
+.pic2 {
+	width: 1480px;
+	height: 300px;
+	padding-left: 10px;
+	padding-top: 30px;
+}
+
+.pic3 {
+	width: 1480px;
+	height: 200px;
+	padding-left: 10px;
+	padding-top: 30px;
+}
